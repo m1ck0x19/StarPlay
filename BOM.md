@@ -17,7 +17,7 @@
 | [6mm tactile button](https://es.aliexpress.com/item/1005005845072975.html?spm=a2g0o.productlist.main.2.2bf637eeK1cALM&algo_pvid=12e84831-0142-44cc-b0eb-17b2a46386fa&algo_exp_id=12e84831-0142-44cc-b0eb-17b2a46386fa-1&pdp_ext_f=%7B%22order%22%3A%224361%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.06%211.23%21%21%211.16%211.35%21%400b0fed2b17913047253973924e0d0d%2112000034553364521%21sea%21ES%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af43eac28%3Bm03_new_user%3A-29895&curPageLogUid=hQ5YMD1UGoLy&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005845072975%7C_p_origin_prod%3A) | Just a button to execute main function | 1 | $1.29 | $1.29 | [AliExpress](https://es.aliexpress.com/item/1005005845072975.html?spm=a2g0o.productlist.main.2.2bf637eeK1cALM&algo_pvid=12e84831-0142-44cc-b0eb-17b2a46386fa&algo_exp_id=12e84831-0142-44cc-b0eb-17b2a46386fa-1&pdp_ext_f=%7B%22order%22%3A%224361%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.06%211.23%21%21%211.16%211.35%21%400b0fed2b17913047253973924e0d0d%2112000034553364521%21sea%21ES%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af43eac28%3Bm03_new_user%3A-29895&curPageLogUid=hQ5YMD1UGoLy&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005845072975%7C_p_origin_prod%3A) |
 | [PCB](https://cart.jlcpcb.com/es/shopcart/cartEdit?id=c6c5fc7e9c704598a944b5e570536828&type=1&changeType=1&achieveDate=72) | The board that will connect everything. I got a coupon for my first order so I just have to pay for the shipping | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/es/shopcart/cartEdit?id=c6c5fc7e9c704598a944b5e570536828&type=1&changeType=1&achieveDate=72) |
 | **Parts subtotal** | — | — | — | **$13.07** | — |
-| **Tax & shipping** | — | — | — | **$2.23** | — |
-| **Total** | — | — | — | **$15.30** | — |
+| **Tax & shipping** | — | — | — | **$7.95** | — |
+| **Total** | — | — | — | **$21.02** | — |
 
-$14.70 left of the tier's funding.
+$8.98 left of the tier's funding.
